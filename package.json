@@ -12,6 +12,8 @@
   },
   "author": "me",
   "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
     "express": ">= 3.3.9"
   },
   "license": "ISC",
