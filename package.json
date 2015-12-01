@@ -11,6 +11,9 @@
     "url": "git+https://github.com/Alexander1972/nodejs-restapi.git"
   },
   "author": "me",
+  "dependencies": {
+    "express": ">= 3.3.9"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Alexander1972/nodejs-restapi/issues"
